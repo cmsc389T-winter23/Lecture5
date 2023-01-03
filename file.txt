@@ -1,7 +1,4 @@
 hello world
 I love to travel
-<<<<<<< HEAD
 Space is cool
 Go Terps!!
-=======
->>>>>>> parent of 67374f1 (space)
